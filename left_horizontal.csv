@@ -1,3 +1,11 @@
+% Model,TIS_model_1202.mph
+% Version,COMSOL 5.5.0.292
+% Date,"Dec 3 2020, 15:22"
+% Dimension,1
+% Nodes,37
+% Expressions,1
+% Description,Line graph
+% cln1x,Height
 0,301.7127883199433
 5.3608483263531534E-5,301.7112492310041
 1.0721696652706318E-4,301.7097098876859
